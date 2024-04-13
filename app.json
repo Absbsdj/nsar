@@ -1,0 +1,27 @@
+{
+    "name": "🔱  قناة برمجة 🔱",
+    "description": "مرحبا بكم في تنصيب النشر التلقائي  ",
+    "logo": "https://www11.0zz0.com/2024/04/12/20/224644009.jpg",
+    "stack": "container",
+    "repository": "https://t.me/X_YI1I",
+    "keywords": ["python", "chatbot", "telegrambot"],
+    "website": "https://t.me/X_YI1I",
+    "env": {
+        "SESSION": {
+            "description": "ضع جلسة التريمكس",
+            "value": "",
+            "required": true
+        },
+        "APP_ID": {
+            "description": "ضع ال ايبي ايدي المكون من 8 ارقام",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ضع ال ايبي هاش الخاص بحسابك",
+            "value": "",
+            "required": true
+        }
+    },
+    "automatic_deploy": false
+}
